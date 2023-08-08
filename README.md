@@ -1,22 +1,24 @@
-EE5175 Course - Image Signal Processing taken by A. N. Rajagopalan in Jan - May 2022 term\\
-This course comprised of 10 lab assignments on the following topics - \\
+EE5175 Course - Image Signal Processing taken by A. N. Rajagopalan in Jan - May 2022 term
 
-1. 
+This course comprised of 10 lab assignments on the following topics - 
 
-2. 
 
-3. 
+1. Geometric Transforms
 
-4. 
+2. Occlusion detection
 
-5. 
+3. Image mosaicing
 
-6. 
+4. Space-invariant Blurring
 
-7. 
+5. Space-variant blurring
 
-8. 
+6. Shape from focus
 
-9. 
+7. DFT, Magnitude-Phase Dominance, and Rotation Property
 
-10.
+8. Markov-1 Process, DCT, SVD
+
+9. OTSU THRESHOLDING AND K-MEANS CLUSTERING
+
+10. Non-local Means Filtering
