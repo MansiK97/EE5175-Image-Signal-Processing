@@ -1,6 +1,7 @@
-**EE5175** - **Image Signal Processing** course taken by **A. N. Rajagopalan** in **Jan - May 2022 term**
+# EE5175 - Image Signal Processing 
+## This course was provided by Prof. A. N. Rajagopalan in Jan - May 2022 term
 
-This course comprised of **10 lab assignments** on the following topics - 
+The course comprised of **10 lab assignments** on the following topics - 
 
 
   1. Geometric Transforms
