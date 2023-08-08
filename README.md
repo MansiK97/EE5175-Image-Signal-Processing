@@ -24,3 +24,5 @@ The course comprised of **10 lab assignments** on the following topics -
   9. OTSU THRESHOLDING AND K-MEANS CLUSTERING
 
   10. Non-local Means Filtering
+
+  11. Non-Blind Deblurring Using Gradient Regularization
